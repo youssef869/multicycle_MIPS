@@ -4,7 +4,7 @@ The multicycle processor addresses weaknesses of single-cycle one by breaking an
 # Implementation 
  ## Data Path
  
- ![image](https://github.com/user-attachments/assets/b2cb819c-5723-4b4f-b315-d43e25de3a20)
+![image](https://github.com/user-attachments/assets/46d9a0ff-d31d-4584-8910-5fcb9c24b173)
 
 ## Control Unit
 
